@@ -5,6 +5,6 @@
     <title>PHP Test</title>
   </head>
   <body>
-    <?php echo '<p>Hello World Ver0.1</p>'; ?> 
+    <?php echo '<p>Hello World Ver0.2</p>'; ?> 
   </body>
 </html>
