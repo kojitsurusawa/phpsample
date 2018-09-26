@@ -6,5 +6,6 @@
   </head>
   <body>
     <?php echo '<p>Hello World Ver0.3</p>'; ?> 
+    <?php echo '<p>add</p>'; ?> 
   </body>
 </html>
