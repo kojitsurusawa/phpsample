@@ -5,6 +5,6 @@
     <title>a</title>
   </head>
   <body>
-    <?php echo '<p>page a</p>'; ?>
+    <?php echo '<p>page a update</p>'; ?>
   </body>
 </html>
