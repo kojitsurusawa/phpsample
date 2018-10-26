@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>a</title>
+    <title>aaaa</title>
   </head>
   <body>
     <?php echo '<p>page a update</p>'; ?>
